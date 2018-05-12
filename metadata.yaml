@@ -1,0 +1,35 @@
+_repo: Nouveau-moyen-de-pr-parer-la-couche-sensible-des-plaques-destin-es---recevoir-les-images-phot__16260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daguerre, Louis Jacques Mandé
+    alias: Daguerre, Louis Jacques Mande
+    birthdate: 1787
+    deathdate: 1851
+    gutenberg_agent_id: '6579'
+    url: http://www.gutenberg.org/2009/agents/6579
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Daguerre
+description: ''
+gutenberg_bookshelf:
+- Technology
+- FR Sciences et Techniques
+- Photography
+gutenberg_issued: '2005-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16260'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Daguerreotype'
+title: 'Nouveau moyen de préparer la couche sensible des plaques destinées à recevoir
+  les images photographiques
+
+  Lettre à M. Arago'
+url: http://www.gutenberg.org/ebooks/16260
