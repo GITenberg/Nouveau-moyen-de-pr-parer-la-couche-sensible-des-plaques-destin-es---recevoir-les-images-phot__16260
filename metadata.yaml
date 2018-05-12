@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6579
     wikipedia: http://en.wikipedia.org/wiki/Louis_Daguerre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16260#Nouveau-moyen-de-pr-parer-la-couche-sensible-des-plaques-destin-es---recevoir-les-images-phot_
 gutenberg_bookshelf:
 - Technology
 - FR Sciences et Techniques
